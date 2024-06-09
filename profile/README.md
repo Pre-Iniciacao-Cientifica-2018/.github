@@ -1,0 +1,1 @@
+![Banner SIICUSP 2019](../media/BannerSiicusp.jpg "Banner SIICUSP 2019")
