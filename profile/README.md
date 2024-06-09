@@ -1,1 +1,1 @@
-![Banner SIICUSP 2019](../media/BannerSiicusp.jpg "Banner SIICUSP 2019")
+![Banner SIICUSP 2019](https://github.com/Pre-Iniciacao-Cientifica-2018/.github/blob/main/media/BannerSiicusp.jpg)
